@@ -1,4 +1,4 @@
 -- Web NQP
-loadstring(game:HttpGet("https://obfuscatorhub.onrender.com/api/g5idevc2"))()
+loadstring(game:HttpGet("https://shopaccnqp.onrender.com/api/upload/5nz8fduz/raw"))()
 -- web trieu
-loadstring(game:HttpGet("https://xhider.xyz/raw/anhdepzai/NotiApiTrieu.lua"))()
+loadstring(game:HttpGet("https://shopaccnqp.onrender.com/api/upload/0eglbalw/raw"))()
