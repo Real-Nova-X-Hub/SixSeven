@@ -1,4 +1,4 @@
 -- Web NQP
-loadstring(game:HttpGet("https://shopaccnqp.onrender.com/api/upload/n8olje2y/raw"))()
+loadstring(game:HttpGet("https://xhider.xyz/raw/anhdepzai/NotiApiNQP.txt"))()
 -- web trieu
-loadstring(game:HttpGet("https://shopaccnqp.onrender.com/api/upload/uqnif3a8/raw"))()
+loadstring(game:HttpGet("https://xhider.xyz/raw/anhdepzai/NotiApiTrieu.lua"))()
